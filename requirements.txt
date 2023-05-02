@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+matplotlib
+numpy
+pandas
+scikit-learn
+nltk
+pickle
+tkinter
+keras
+win32gui
+Pillow
