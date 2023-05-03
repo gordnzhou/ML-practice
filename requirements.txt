@@ -1,12 +1,8 @@
 streamlit
-tensorflow
-matplotlib
-numpy
-pandas
-scikit-learn
-nltk
-pickle
-tkinter
-keras
+matplotlib==3.5.3
+numpy==1.23.3
+pandas==2.0.1
+scikit-learn==1.2.2
+nltk==3.8.1
 win32gui
 Pillow
